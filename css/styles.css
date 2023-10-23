@@ -344,6 +344,7 @@ section {
     line-height: 24px;
     letter-spacing: 0.64px;
     border-style: none;
+    border-radius: 4px;
     cursor: pointer;
     padding: 12px 24px;
     transition-duration: 2s;
